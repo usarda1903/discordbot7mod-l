@@ -1,0 +1,4 @@
+0 Altın
+1 Gümüş
+2 Demir
+3 Bakır
